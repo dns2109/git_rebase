@@ -1,1 +1,1 @@
-This is my second file in branch2
+This is my fourth file in master
